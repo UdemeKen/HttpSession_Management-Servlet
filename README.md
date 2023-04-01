@@ -1,1 +1,1 @@
-# HttpSession
+HttpSession is a session management mechanism used in web applications to maintain state information across multiple HTTP requests and responses. When a client makes a request to a web server, the server creates a unique session ID and sends it to the client in the form of a cookie or as part of the URL. The client then sends this session ID with every subsequent request to the server, allowing the server to identify the client and retrieve the associated session data.
